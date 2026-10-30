@@ -1,2 +1,3 @@
-# Average-of-Two-floating-point-numbers
-To find the average
+a=float(input("enter the first :"))# Average-of-Two-floating-point-numbers
+b=float(input("enter the second:"))#To find the average
+print("avg=",a+b/2)
